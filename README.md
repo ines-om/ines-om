@@ -3,7 +3,7 @@
 
 
 - 🥰 My name is Inês!
-- 🍒 I'm a northern portuguese high school senior.
+- 🍒 I'm a high school senior.
 - ----
 
 - 🐍 I mainly code in Python.
