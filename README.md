@@ -1,6 +1,6 @@
 ### Hello World 👋 My name is Inês !
 
-- 🇵🇹 I am a portuguese high school senior.
+- 🇵🇹  I am a portuguese high school senior.
 - 🧪 Specifically, a sciences (PCM) student!
 - 💾 I plan to pursue maths and cs at university.
 - ----
