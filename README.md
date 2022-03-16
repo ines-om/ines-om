@@ -1,4 +1,4 @@
-### Hello World 👋 My name is Inês !
+### Hello World 👋 My name is Inês!
 
 - 🇵🇹  I am a portuguese high school senior.
 - 🧪 Specifically, a sciences (PCM) student!
