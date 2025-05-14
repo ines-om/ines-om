@@ -5,5 +5,5 @@
 
 
 
-- 🗨️: ask me about my __coding e-learning__ & __star wars__ hot takes.
+- 🗨️: ask me about my __ui design__ & __star wars__ hot takes.
 - 💌: reach me at inesolimartins@gmail.com
