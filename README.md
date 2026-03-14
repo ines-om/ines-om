@@ -1,5 +1,5 @@
 ## hi, I'm Inês! 🌷
-*Computer Science & Engineering Student - 3rd Year*
+*Computer Science & Engineering Student @ Técnico Lisboa*
 
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ines-om&show_icons=true&locale=en&layout=compact&langs_count=8&hide=Groovy,TypeScript" alt="ines-om" />
